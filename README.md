@@ -1,2 +1,2 @@
-# StartUp-LandingPage
-This is a simple landing page.
+# Simple Landing Page
+This repository contains a responsive and visually appealing landing page created to showcase my skills in HTML, CSS, and JavaScript. The project demonstrates key front-end development techniques, including layout design, styling, animations, and interactivity. It serves as a foundation for understanding how modern websites are built and provides a starting point for further enhancements or integrations. Feedback and suggestions are welcome!
